@@ -36,7 +36,7 @@ body {
   
   /* Cambiar el color de fondo y el borde del botón "Comprar" al pasar el cursor por encima*/
   .btn-primary:hover {
-    background-color: #3c9d9b !important;
+    background-color: #b4711a  !important;
     border-color: #3c9d9b !important;
   }
   
