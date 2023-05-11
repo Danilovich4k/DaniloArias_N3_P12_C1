@@ -1,0 +1,86 @@
+/* Cambiar la tipografía */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Cambiar el color de fondo y el borde del botón "Comprar" */
+  .btn-primary {
+    background-color: #198754 !important;
+    border-color: #198754 !important;
+  }
+  
+  /* Cambiar el color de fondo de la barra de navegación */
+  .navbar {
+    background-color: #343a40 !important;
+  }
+  
+  /* Cambiar el color de fondo del encabezado */
+  header {
+    background-color: #536579 !important;
+  }
+  
+  /* Cambiar el color de fondo de las tarjetas */
+  .card {
+    background-color: #f8f9fa;
+  }
+  
+  /* Cambiar la tipografía de los títulos de las secciones */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Cambiar el color de fondo y el borde del botón "Comprar" al pasar el cursor por encima*/
+  .btn-primary:hover {
+    background-color: #3c9d9b !important;
+    border-color: #3c9d9b !important;
+  }
+  
+  /* Agregar márgenes para separar elementos */
+  section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Cambiar el tamaño de las imágenes de las tarjetas */
+  .card-img-top {
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  /* Cambiar el color y tipografía del título de la página*/
+  h1 {
+    color: #fff;
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  /* Cambiar el color y tipografía del subtítulo de la página*/
+  .lead {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  /* Dentro del footer, separar elementos y cambiar tipografía  */
+  footer {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    background-color: #343a40 !important;
+  }
+  
+  footer h3,
+  footer p {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  /* Reducir margen inferior de las tarjetas para que se vean más juntas */
+  .card {
+    margin-bottom: 1rem;
+  }
